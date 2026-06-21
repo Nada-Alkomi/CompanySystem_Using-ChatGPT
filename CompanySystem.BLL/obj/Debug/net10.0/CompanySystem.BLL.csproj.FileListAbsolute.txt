@@ -1,0 +1,15 @@
+D:\ Compant System\CompanySystem.BLL\bin\Debug\net10.0\CompanySystem.BLL.deps.json
+D:\ Compant System\CompanySystem.BLL\bin\Debug\net10.0\CompanySystem.BLL.dll
+D:\ Compant System\CompanySystem.BLL\bin\Debug\net10.0\CompanySystem.BLL.pdb
+D:\ Compant System\CompanySystem.BLL\bin\Debug\net10.0\CompanySystem.DAL.dll
+D:\ Compant System\CompanySystem.BLL\bin\Debug\net10.0\CompanySystem.DAL.pdb
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.csproj.AssemblyReference.cache
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.AssemblyInfoInputs.cache
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.AssemblyInfo.cs
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.csproj.CoreCompileInputs.cache
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanyS.21DD2316.Up2Date
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.dll
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\refint\CompanySystem.BLL.dll
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\CompanySystem.BLL.pdb
+D:\ Compant System\CompanySystem.BLL\obj\Debug\net10.0\ref\CompanySystem.BLL.dll
