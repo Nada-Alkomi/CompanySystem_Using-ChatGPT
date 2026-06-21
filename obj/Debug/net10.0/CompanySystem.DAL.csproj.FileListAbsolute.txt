@@ -1,0 +1,14 @@
+D:\ Compant System\CompanySystem.DAL\bin\Debug\net10.0\CompanySystem.DAL.deps.json
+D:\ Compant System\CompanySystem.DAL\bin\Debug\net10.0\CompanySystem.DAL.runtimeconfig.json
+D:\ Compant System\CompanySystem.DAL\bin\Debug\net10.0\CompanySystem.DAL.dll
+D:\ Compant System\CompanySystem.DAL\bin\Debug\net10.0\CompanySystem.DAL.pdb
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.csproj.AssemblyReference.cache
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.AssemblyInfoInputs.cache
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.AssemblyInfo.cs
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.csproj.CoreCompileInputs.cache
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.dll
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\refint\CompanySystem.DAL.dll
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.pdb
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\CompanySystem.DAL.genruntimeconfig.cache
+D:\ Compant System\CompanySystem.DAL\obj\Debug\net10.0\ref\CompanySystem.DAL.dll
